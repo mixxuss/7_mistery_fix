@@ -1,6 +1,8 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This program computes roots of square equation by discriminant method. 
+
+Test.py is used for unit testing.
 
 # Project Goals
 
