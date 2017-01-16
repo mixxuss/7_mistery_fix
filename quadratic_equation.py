@@ -12,3 +12,9 @@ def get_roots(a, b, c):
         return root1, None
     else:
         return None, None
+
+if __name__ == '__main__':
+    a = int(input('a = '))
+    b = int(input('b = '))
+    c = int(input('c = '))
+    print(get_roots(a, b, c))
